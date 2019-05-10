@@ -5,8 +5,13 @@
     <div class="jumbotron">
         <h1>Base de Conocimiento SiboAvance</h1>
         <p class="lead">Puedes buscar los programas, manuales y diversos archivos se ingresaron anteriormente en esta base de conocimiento</p>
-        <p align="right"><a href="http://www.asp.net" class="btn btn-primary btn-lg">Buscar</a></p>
-        <p><a input></a></p>
+        <div>
+            <tr>                
+                <td><input type="text"></td>
+                <td><a align="right" onclick= "" id="btnBuscar" class="btn btn-primary btn-lg">Buscar</a></td>
+            </tr>
+        </div>
+        
     </div>
 
     <div class="row">
